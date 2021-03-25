@@ -1,0 +1,20 @@
+#bg{
+    background: url("../../resources/static/bg.png") no-repeat center;
+    background-size: cover;
+}
+.container{
+    width: 23.75rem;
+    height:37rem;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #f8f8f8;
+    border-radius: 1.5rem;
+    box-shadow: 0 2px 30px rgba(0,0,0,.1);
+    border: 1px solid #eaeaea;
+}
+
+.login_logo{
+    text-align: center;
+}

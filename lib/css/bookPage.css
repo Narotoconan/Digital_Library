@@ -1,0 +1,41 @@
+.back{
+    background-color: #f1f1f1;
+}
+.bookCover{
+    width: 12.5rem;
+    height: 16.5rem;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 15px 0 rgba(0,0,0,.2);
+}
+.bookMg{
+    height: 14.375rem;
+    display: flex;
+}
+.bookMg li{
+    flex: 1;
+}
+.use-btn>div{
+    text-align: right;
+}
+.bookBc::before{
+    content:'';
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background: url('../../resources/static/true.jpg') no-repeat center;
+    background-size: 250%;
+    filter:blur(70px);
+    z-index:-1;
+}
+.category{
+    width: 3.5rem;
+    line-height: 1.5rem;
+    font-size: 0.5rem;
+    background-color: #1487ff;
+    border-radius: 5px;
+    text-align: center;
+    color: #f2f2f2;
+}

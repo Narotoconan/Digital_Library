@@ -1,0 +1,22 @@
+
+#drowdowmList li{
+    height: 10rem;
+    line-height: 10rem;
+    cursor: default;
+    border-radius: 1rem;
+    transition: all 0.5s;
+}
+#drowdowmList li:hover{
+    box-shadow: 0 2px 15px 0 rgba(0,0,0,.1);
+    background-color: #f6f6f6;
+}
+#drowdowmList li span{
+    vertical-align: middle;
+}
+#drowdowmList li span:nth-of-type(1){
+    margin-right: 1rem;
+    font-size: 2.5rem;
+}
+.verali{
+    vertical-align: middle !important;
+}

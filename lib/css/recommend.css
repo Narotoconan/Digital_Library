@@ -1,0 +1,19 @@
+.category{
+    width: 3.5rem;
+    line-height: 1.5rem;
+    font-size: 0.5rem;
+    background-color: #1487ff;
+    border-radius: 5px;
+    text-align: center;
+    color: #f2f2f2;
+
+}
+.bookName{
+    width: 10.78rem;
+    height: 3rem;
+}
+.bookItems:hover{
+    transition: all 0.5s;
+    box-shadow: 0 2px 20px 0 rgba(0,0,0,.1);
+    cursor: default;
+}

@@ -1,0 +1,22 @@
+.topList:hover{
+    transition: all 0.5s;
+    box-shadow: 0 2px 15px 0 rgba(23, 135, 255, 0.26);
+    cursor: default;
+}
+.rankBookName{
+    width: 10.78rem;
+    height: 3rem;
+}
+.rankBookContent{
+    width: 13.75rem;
+    height: 7.5rem;
+}
+.rankCategory{
+    width: 3.5rem;
+    line-height: 1.5rem;
+    font-size: 0.5rem;
+    background-color: #1487ff;
+    border-radius: 5px;
+    text-align: center;
+    color: #f2f2f2;
+}
