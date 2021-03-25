@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="C:\Users\Willi\Desktop\cc\logo.c92e4f20.png" style="height:100px;" />
+<img src="https://github.com/Narotoconan/Digital_Library/blob/master/resources/logo.png" height="70" />
 </p>
 
 
